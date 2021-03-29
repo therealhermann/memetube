@@ -1,0 +1,30 @@
+.Meme{
+	text-align: center;
+}
+
+.Meme-header {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  color: #FFFFFF;
+  /*background-color: olive;*/
+}
+
+.Meme-wrapper {
+  display: flex;
+  justify-content: center;
+  /*background-color: beige;*/
+}
+
+.Meme-wrapper-Meme {
+  align-items: center;
+  justify-content: center;
+  /*background-color: white;*/
+}
+
+.Meme-wrapper-Meme > img {
+  background-color: white;
+}

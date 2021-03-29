@@ -1,0 +1,26 @@
+# packages
+node_modules/
+venv/
+env/
+
+# react 
+tmp/*.png
+
+# puppeteer exceptions, ads, memes, etc.
+puppeteer/screenshots/*png
+puppeteer/images/*png
+
+# log files
+*/logs/
+
+# reports
+report.*.json
+
+# debug test
+tools/puppeteer/src/tests/unit-test.js
+
+# dev env
+.vscode/
+__pycache__
+
+.DS_Store

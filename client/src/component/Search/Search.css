@@ -1,0 +1,9 @@
+.Search {
+	display: inline-flex;
+	justify-content: center;
+	margin-bottom: 50px;
+}
+
+.Search > form > input {
+	width: 750px;
+}

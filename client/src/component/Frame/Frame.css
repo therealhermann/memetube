@@ -1,0 +1,37 @@
+.Frame{
+	text-align: center;
+}
+
+.Frame-content-info {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  color: #FFFFFF;
+  /*background-color: olive;*/
+}
+
+.Frame-wrapper {
+  display: flex;
+  justify-content: center;
+  /*background-color: beige;*/
+}
+
+.Frame-wrapper-nav-btn {
+  position: relative;
+  margin: 15px;
+  background: transparent;
+  border: none;
+}
+
+.Frame-wrapper-frame {
+  align-items: center;
+  justify-content: center;
+  /*background-color: white;*/
+}
+
+.Frame-wrapper-frame > img {
+  background-color: white;
+}
