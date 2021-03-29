@@ -6,6 +6,9 @@ env/
 # react 
 tmp/*.png
 
+# collage
+*.pyc
+
 # puppeteer exceptions, ads, memes, etc.
 puppeteer/screenshots/*png
 puppeteer/images/*png
